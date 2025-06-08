@@ -1,5 +1,6 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Francisco</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franguti4k&label=Profile%20views&color=0e75b6&style=flat" alt="franguti4k" /> </p>
 
 ## 🙋‍♂️ Sobre mí
 
@@ -12,9 +13,6 @@
 - :nerd_face: Siempre explorando nuevas técnicas, desde CRISP-DM hasta stacking y ensembling de modelos.
 - :books: Me motiva aprender continuamente y compartir lo que sé con otros.
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franguti4k&label=Profile%20views&color=0e75b6&style=flat" alt="franguti4k" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
