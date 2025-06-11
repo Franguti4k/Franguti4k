@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/francisco-javier-guti%C3%A9rrez-gallego/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco javier gutiérrez gallego" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/franjgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="franjgg" height="30" width="40" /></a>
 </p>
