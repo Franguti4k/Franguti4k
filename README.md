@@ -1,15 +1,12 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Francisco</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franguti4k&label=Profile%20views&color=0e75b6&style=flat" alt="franguti4k" /> </p>
 
 ## 🙋‍♂️ Sobre mí
 
 - :bar_chart: Apasionado por convertir datos en soluciones inteligentes y accionables.
 - :technologist: Me encanta aplicar la ciencia de datos y el aprendizaje automático para resolver problemas reales.
-- :computer: Estudiante de `Ingeniería Informática`, con interés en `Machine Learning`, `Deep Learning` y `IA Generativa`.
+- :computer: Estudiante de `Ingeniería Informática`, con interés en `Data Science`, `Machine Learning`, `Deep Learning` y `IA Generativa`.
 - :test_tube: He trabajado con `Python`, `Pandas`, `Scikit-learn`, `LightGBM`, `CatBoost` y `Optuna` en competiciones como Kaggle.
-- :chart_with_upwards_trend: En el Top 3 de una competición de Kaggle optimizando modelos para predecir `yield` con bajo MAE.
-- :cloud: Aprendiendo sobre `AWS` y su aplicación en proyectos de datos e inteligencia artificial.
 - :nerd_face: Siempre explorando nuevas técnicas, desde CRISP-DM hasta stacking y ensembling de modelos.
 - :books: Me motiva aprender continuamente y compartir lo que sé con otros.
 
